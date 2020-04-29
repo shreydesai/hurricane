@@ -94,7 +94,7 @@ As an example, here is a sample of annotator #2's decisions on a Hurricane Harve
 
 ## Training Baselines
 
-We provide the following commands to train the baseline models. These commands will train on `awe`, but you may replace this with any one of the Plutchik-8 emotions outlined above. Our models are trained on an NVIDIA Titan X GPU, and the results in the paper are an average of 10 runs with random restarts. Use the `--verbose` to see system output.
+We provide the following commands to train the baseline models. These commands will train on `awe`, but you may replace this with any one of the Plutchik-8 emotions outlined above. Our models are trained on an NVIDIA Titan V GPU, and the results in the paper are an average of 10 runs with random restarts. If you are using non-pre-trained models, you will need to download the Twitter GloVe embeddings -- you may download our [pickled file](https://drive.google.com/file/d/1Wuu-F-mFd-Qjct1iUoxHh1wihXHRzYxd/view?usp=sharing) and place it in the root directory. Use the `--verbose` to see system output.
 
 ### Requirements
 
