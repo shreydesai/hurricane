@@ -4,10 +4,10 @@ Code and datasets for our ACL 2020 paper [Detecting Perceived Emotions in Hurric
 
 ```bibtex
 @inproceedings{desai-etal-2020-detecting,
-	author={Desai, Shrey and Caragea, Cornelia and Li, Junyi Jessy},
-	title={{Detecting Perceived Emotions in Hurricane Disasters}},
-	booktitle={Proceedings of the Association for Computational Linguistics (ACL)},
-	year={2020},
+  author={Desai, Shrey and Caragea, Cornelia and Li, Junyi Jessy},
+  title={{Detecting Perceived Emotions in Hurricane Disasters}},
+  booktitle={Proceedings of the Association for Computational Linguistics (ACL)},
+  year={2020},
 }
 ```
 
