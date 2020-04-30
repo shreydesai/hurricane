@@ -1,6 +1,6 @@
 # Detecting Perceived Emotions in Hurricane Disasters
 
-Code and datasets for our ACL 2020 paper [Detecting Perceived Emotions in Hurricane Disasters](). If you found this project helpful, please consider citing our paper:
+Code and datasets for our ACL 2020 paper [Detecting Perceived Emotions in Hurricane Disasters](https://arxiv.org/abs/2004.14299). If you found this project helpful, please consider citing our paper:
 
 ```bibtex
 @inproceedings{desai-etal-2020-detecting,
